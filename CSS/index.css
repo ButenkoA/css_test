@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+p {
+    background-color: blueviolet;
+}
+
+#chosen {
+    border: 10px solid yellow;
+}
+
+div > p {
+    color:aliceblue;
+}
+
+p:hover {
+    font-size:2rem;
+}
+
+p:
